@@ -1,0 +1,14 @@
+F:\Excelsior\Project\Excelsior.API\bin\Debug\netcoreapp2.2\Excelsior.API.deps.json
+F:\Excelsior\Project\Excelsior.API\bin\Debug\netcoreapp2.2\Excelsior.API.runtimeconfig.json
+F:\Excelsior\Project\Excelsior.API\bin\Debug\netcoreapp2.2\Excelsior.API.runtimeconfig.dev.json
+F:\Excelsior\Project\Excelsior.API\bin\Debug\netcoreapp2.2\Excelsior.API.dll
+F:\Excelsior\Project\Excelsior.API\bin\Debug\netcoreapp2.2\Excelsior.API.pdb
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.csprojAssemblyReference.cache
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.csproj.CoreCompileInputs.cache
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.RazorAssemblyInfo.cache
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.RazorAssemblyInfo.cs
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.AssemblyInfoInputs.cache
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.AssemblyInfo.cs
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.RazorTargetAssemblyInfo.cache
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.dll
+F:\Excelsior\Project\Excelsior.API\obj\Debug\netcoreapp2.2\Excelsior.API.pdb
