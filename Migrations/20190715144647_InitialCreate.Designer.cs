@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Excelsior.API.Migrations
 {
     [DbContext(typeof(DataContext))]
-    [Migration("20190711084408_InitialCreate")]
+    [Migration("20190715144647_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -29,9 +29,9 @@ namespace Excelsior.API.Migrations
 
                     b.Property<string>("LastName");
 
-                    b.Property<int>("MobNo");
+                    b.Property<long>("MobNo");
 
-                    b.Property<int>("PanNo");
+                    b.Property<string>("PanNo");
 
                     b.Property<byte[]>("PasswordHash");
 

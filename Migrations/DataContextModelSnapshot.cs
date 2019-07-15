@@ -27,9 +27,9 @@ namespace Excelsior.API.Migrations
 
                     b.Property<string>("LastName");
 
-                    b.Property<int>("MobNo");
+                    b.Property<long>("MobNo");
 
-                    b.Property<int>("PanNo");
+                    b.Property<string>("PanNo");
 
                     b.Property<byte[]>("PasswordHash");
 

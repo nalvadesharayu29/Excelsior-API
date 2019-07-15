@@ -15,10 +15,10 @@ namespace Excelsior.API.Migrations
                         .Annotation("Sqlite:Autoincrement", true),
                     PasswordHash = table.Column<byte[]>(nullable: true),
                     PasswordSalt = table.Column<byte[]>(nullable: true),
-                    PanNo = table.Column<int>(nullable: false),
+                    PanNo = table.Column<string>(nullable: true),
                     FirstName = table.Column<string>(nullable: true),
                     LastName = table.Column<string>(nullable: true),
-                    MobNo = table.Column<int>(nullable: false),
+                    MobNo = table.Column<long>(nullable: false),
                     Email = table.Column<string>(nullable: true)
                 },
                 constraints: table =>
