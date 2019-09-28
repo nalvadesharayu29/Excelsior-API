@@ -17,7 +17,7 @@ namespace Excelsior.API.Controllers
     public class AuthController: ControllerBase
     {
         private readonly IAuthRepository _repo;
-         private readonly IConfiguration _configuration;
+        private readonly IConfiguration _configuration;
 
         public AuthController(IAuthRepository repo, IConfiguration configuration)
         {

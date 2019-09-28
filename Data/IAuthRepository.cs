@@ -8,5 +8,7 @@ namespace Excelsior.API.Data
         Task<User> Register(User user, string password);
         Task<User> Login(string panNO, string password);
         Task<bool> UserExist(string panNo);
+
+        Task<bool> SendMessage(Message msg);
     }
 }

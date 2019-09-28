@@ -69,5 +69,18 @@ namespace Excelsior.API.Data
 
             return false;
         }
+
+        public async Task<bool> SendMessage(Message msg)
+        {
+            try
+            {
+                await _context.Messages.AddAsync(msg);
+                return true;
+            }
+            catch (System.Exception)
+            {
+                return true;
+            }
+        }
     }
 }
